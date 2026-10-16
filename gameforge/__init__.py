@@ -1,0 +1,1 @@
+"""GameForge desktop asset generator."""
